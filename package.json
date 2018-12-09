@@ -4,12 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "start": "node server/server.js",
     "test": "mocha server/**/*.test.js",
     "test-watch": "nodemon --exec 'npm test'"
   },
   "engines": {
     "node": "6.2.2"
+=======
+   "start": "node server/server.js"
+>>>>>>> 655536569accb54eca895a17b24f617dee7cfdb2
   },
   "author": "RehanRaees",
   "license": "ISC",
